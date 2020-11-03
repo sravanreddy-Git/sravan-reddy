@@ -1,0 +1,33 @@
+body{font-family: sans-serif;
+color: white; 
+background-color: black}
+
+h2{text-align: center;
+color: #68f26d;
+text-transform: capitalize;}
+form-div{text-align: center;}
+.data-entry1{background-color: #68f26d}
+input{
+margin-top: 0.5em;
+margin-left: 6%;
+outline: none;
+border: none;
+min-width: 80%;
+padding: 0.75em}
+form{
+	min-width: 80%;
+padding: 1em;
+display: inline-block;
+background-color: #eee;
+}
+input.button{text-transform: capitalize;
+	text-align: center;
+	margin-left: 100;
+	padding: 1em 2em;
+	display:block;
+	color: white;
+	font-weight: bold;
+margin-left: 30%;
+background-color: #22de7a;
+margin-top:1.5em;
+min-width:0;}
